@@ -1,4 +1,4 @@
-# 📌 Git Version Control on MacOS
+# 📌 Git Version Control on MacOS (Role: BackEnd)
 
 - This program is developed based in **MacOS**.
     - It also works in **Windows**, but the UI may break or cause unexpected errors.
